@@ -1,0 +1,21 @@
+You don't need to downoad this file in order to use my AIO. This just inculdes notes to myslef. 
+
+Jhin R ideas
+
+local function distance(x1,y1,x2,y2) return math.sqrt((x2 - x1) ^ 2 + (y2 - y1) ^ 2) end
+
+local function JhinRCone() 
+  local target = get_target(select_rtarger)
+  if target and common.TargetIsValid() then
+    local range = RRange
+    local angle = 70  (math.pi / 180)
+  
+    local end2 = targer.pos.To2D() - player.pos.To2D()
+    local edge1 = end2(-angle / 2)
+    local edge2 = edge1(angle)
+  
+    local point = targer.pos.To2D() - player.pos.To2D()
+  
+    return point.distance < range * range && edge1
+  end
+end
