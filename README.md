@@ -15,6 +15,7 @@ Start a game and active the AIO via the Menu. Currently supported Champions
   - Karthus
   - Kayn
   - Sejuani
+  - Ornn
 
 In case any crashes occur message me on Discord: Daze#6586
 (Please include a screenshot of the console if possible)
