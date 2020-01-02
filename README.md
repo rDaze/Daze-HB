@@ -1,5 +1,7 @@
 # Daze
 
+DISCONTINUED PLEASE RESTRAIN FROM USING ANY MODULES UNTIL FURTHER NOTICE
+
 I am Daze. I do stuff for HanBot
 
 If you want you can join my Discord: https://discord.gg/ZqXaXaV
